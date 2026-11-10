@@ -1,5 +1,5 @@
 {
   "trivy": {
-    "--timeout": "20m"
+    "--output": "fuera.json"
   }
 }
