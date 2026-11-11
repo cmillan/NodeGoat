@@ -1,0 +1,9 @@
+{
+  "name": "prueba-pr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependencia vulnerable a propósito, para probar el análisis de pull requests de ITIrails",
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
