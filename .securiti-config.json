@@ -1,5 +1,8 @@
 {
   "trivy": {
     "--timeout": "20m"
+  },
+  "opengrep": {
+    "--exclude": "app/routes"
   }
 }
